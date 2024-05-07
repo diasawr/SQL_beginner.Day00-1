@@ -2,7 +2,7 @@
 Day 00 of the PostgreSQL Intensive at School21 - learning basic SQL constructs.
 # README
 
-![Untitled](SQL_beginner.Day00-1/img)
+![Untitled](img/Untitled.png)
 
 ## **Exercise 00**
 
